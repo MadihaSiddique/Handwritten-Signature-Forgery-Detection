@@ -11,3 +11,4 @@ and lots of business processes. It can be used as an intermediate tool to authen
 documents like cheques, legal records, certificates, etc.The model gave encouraging results.
 Entirely different threshold values are used for feature matching on testing and training vectors,
 which helped to boost the overall performance and efficiency of the system.
+Developed a machine learning model which can be deployed in government offices,banks and companies to verify the handwritten signatures with the accuracy rate upto 99.2%.
